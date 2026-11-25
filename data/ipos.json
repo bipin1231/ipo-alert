@@ -3,11 +3,33 @@
     "companyName": "Citizens Super 50 - CTZSU50 (IPO - For General Public)",
     "issueManager": "CITIZENS CAPITAL LIMITED",
     "issuedUnit": "100000000",
-    "applications": "25575",
-    "appliedUnit": "85552430",
-    "amount": "855524300",
+    "applications": "28101",
+    "appliedUnit": "90734550",
+    "amount": "907345500",
     "openDate": "2026-11-18",
     "closeDate": "2026-12-02",
-    "lastUpdate": "2026-11-24 17:15:19"
+    "lastUpdate": "2026-11-25 17:15:07"
+  },
+  {
+    "companyName": "Nabil Growth Fund - NABILGF (IPO - For General Public)",
+    "issueManager": "NABIL INVESTMENT BANKING LIMITED",
+    "issuedUnit": "100000000",
+    "applications": "2457",
+    "appliedUnit": "2987940",
+    "amount": "29879400",
+    "openDate": "2026-11-25",
+    "closeDate": "2026-11-30",
+    "lastUpdate": "2026-11-25 17:15:07"
+  },
+  {
+    "companyName": "Nabil Growth Fund - NABILGF (IPO - For General Public)",
+    "issueManager": "NABIL INVESTMENT BANKING LIMITED",
+    "issuedUnit": "100000000",
+    "applications": "2654",
+    "appliedUnit": "1753410",
+    "amount": "17534100",
+    "openDate": "2026-11-25",
+    "closeDate": "2026-11-30",
+    "lastUpdate": "2026-11-25 17:15:07"
   }
 ]
