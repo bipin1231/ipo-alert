@@ -3,33 +3,44 @@
     "companyName": "Citizens Super 50 - CTZSU50 (IPO - For General Public)",
     "issueManager": "CITIZENS CAPITAL LIMITED",
     "issuedUnit": "100000000",
-    "applications": "31141",
-    "appliedUnit": "93961750",
-    "amount": "939617500",
+    "applications": "33297",
+    "appliedUnit": "105106930",
+    "amount": "1051069300",
     "openDate": "2026-11-18",
     "closeDate": "2026-12-02",
-    "lastUpdate": "2026-11-26 17:14:57"
+    "lastUpdate": "2026-11-27 17:15:11"
   },
   {
     "companyName": "Kantipur Pharmaceuticals  Lab Limited - KPLL (RESERVED - FOREIGN EMPLOYMENT)",
     "issueManager": "MUKTINATH CAPITAL LIMITED",
     "issuedUnit": "90000",
-    "applications": "24147",
-    "appliedUnit": "385500",
-    "amount": "38550000",
+    "applications": "40540",
+    "appliedUnit": "636810",
+    "amount": "63681000",
     "openDate": "2026-11-26",
     "closeDate": "2026-12-01",
-    "lastUpdate": "2026-11-26 17:14:57"
+    "lastUpdate": "2026-11-27 17:15:11"
+  },
+  {
+    "companyName": "Kantipur Pharmaceuticals  Lab Limited - KPLL (RESERVED - Project Affected Area)",
+    "issueManager": "MUKTINATH CAPITAL LIMITED",
+    "issuedUnit": "800000",
+    "applications": "1",
+    "appliedUnit": "10",
+    "amount": "1000",
+    "openDate": "2026-11-26",
+    "closeDate": "2026-12-10",
+    "lastUpdate": "2026-11-27 17:15:11"
   },
   {
     "companyName": "Nabil Growth Fund - NABILGF (IPO - For General Public)",
     "issueManager": "NABIL INVESTMENT BANKING LIMITED",
     "issuedUnit": "100000000",
-    "applications": "13503",
-    "appliedUnit": "16240310",
-    "amount": "162403100",
+    "applications": "19505",
+    "appliedUnit": "45236440",
+    "amount": "452364400",
     "openDate": "2026-11-25",
     "closeDate": "2026-11-30",
-    "lastUpdate": "2026-11-26 17:14:57"
+    "lastUpdate": "2026-11-27 17:15:11"
   }
 ]
